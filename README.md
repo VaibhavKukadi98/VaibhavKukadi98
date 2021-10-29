@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhavKukadi98
 - 👀 I’m interested in Backend Development 
-- ♟I've Completed Java,Python Courses
+- ♟I've Completed Java,Python,SQLServer Courses
 - 🌱 I’m currently learning Oracle, Real Time Database Implementation 
 - 🚀I’m looking to collaborate on Backend Development 
 - 📫 How to reach me vaibhavkukadi180798@gmail.com
